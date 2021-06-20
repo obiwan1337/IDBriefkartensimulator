@@ -6,8 +6,8 @@ var ai;
     let r;
     function init(_e) {
         canvas = document.getElementsByTagName("canvas")[0];
-        canvas.height = screen.height / 1.5;
-        canvas.width = screen.width / 2.5;
+        canvas.height = screen.height / 1.25;
+        canvas.width = screen.width / 2;
         c2d = canvas.getContext("2d");
         loadCanvasData();
     }

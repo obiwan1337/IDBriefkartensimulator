@@ -38,7 +38,7 @@ body {
 }
 
 #nope {
-    left: 1000px;
+    right: 10%;
     position: absolute;
     top: 320px;
     margin-left: 5px;

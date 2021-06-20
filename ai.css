@@ -19,7 +19,7 @@ body {
 #buttoncl {
     top: 200px;
     position: absolute;
-    left: 1000px;
+    right: 10%;
     margin-left: 5px;
     margin-right: 5px;
     background-color: deepskyblue;
@@ -29,7 +29,7 @@ body {
 }
 
 #hebu {
-    left: 1000px;
+    right: 10%;
     position: absolute;
     top: 130px;
     margin-left: 5px;

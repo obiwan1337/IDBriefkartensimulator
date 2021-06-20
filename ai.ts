@@ -15,7 +15,7 @@ namespace ai {
     }
     function loadCanvasData() {
         c2d.clearRect(0, 0, canvas.width, canvas.height);
-        disp(set2);
+        disp(set5);
     }
     function disp(_coordinates): void {
         let numFS: number = -1;

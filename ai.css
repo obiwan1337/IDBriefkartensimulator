@@ -1,7 +1,3 @@
-body {
-
-    /*  */
-}
 
 #postkarte {
     position: absolute;
@@ -22,10 +18,11 @@ body {
     right: 10%;
     margin-left: 5px;
     margin-right: 5px;
-    background-color: deepskyblue;
+    background-color: #598fd7;
     height: 100px;
     width: 250px;
     font-size: large;
+    border-radius: 4%;
 }
 
 #hebu {
@@ -43,8 +40,9 @@ body {
     top: 320px;
     margin-left: 5px;
     margin-right: 5px;
-    background-color: orange;
+    background-color: lightgrey;
     height: 100px;
     width: 250px;
     font-size: large;
+    border-radius: 4%;
 }

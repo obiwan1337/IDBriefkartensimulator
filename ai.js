@@ -13,7 +13,7 @@ var ai;
     }
     function loadCanvasData() {
         c2d.clearRect(0, 0, canvas.width, canvas.height);
-        disp(ai.set5);
+        disp(ai.set7);
     }
     function disp(_coordinates) {
         let numFS = -1;
